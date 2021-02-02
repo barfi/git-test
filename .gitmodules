@@ -1,0 +1,3 @@
+[submodule "sub_1"]
+	path = sub_1
+	url = https://github.com/barfi/git-test-sub-1.git
